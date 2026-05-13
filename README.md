@@ -123,3 +123,11 @@ Complaints are always escalated.
 - Add multilingual support
 - Add sentiment analysis
 - Add AI fallback classification# nistula-technical-assessment
+
+# API Screenshots
+
+## Availability Query Response
+
+![Availability Response](screenshots/img.png)
+
+---
